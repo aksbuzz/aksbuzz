@@ -19,21 +19,22 @@
 
 <br />
 
-### 🚀 Project Highlights
+### Project Highlights
 
 | Project Name | Description | Repository |
 | :--- | :--- | :---: |
-| 🎨 **Sketch-Remote** | A realtime multiplayer game where players sketch and others try to guess the word. | [View](https://github.com/aksbuzz/sketch-remote) |
-| 🖼️ **Brandkit** | A Digital Asset Management System for uploading, processing, and delivering images at scale. | [View](https://github.com/aksbuzz/brandkit) |
-| 🚩 **Flippr** | A simple and high-performance Feature Flagging Service to manage feature releases. | [View](https://github.com/aksbuzz/flippr) |
-| ⚡ **ClickLess** | A Workflow Automation App designed to streamline repetitive tasks and boost productivity. | [View](https://github.com/aksbuzz/clickless) |
-| 📚 **Interview Prep** | A comprehensive collection of resources and code for technical interview preparation. | [View](https://github.com/aksbuzz/interview_prep) |
+| **ClickLess** | A Workflow Automation App designed to streamline repetitive tasks and boost productivity. | [View](https://github.com/aksbuzz/clickless) |
+| **SaaS Starter Kit** | A production-ready starter for building multi-tenant SaaS products. | [View](https://github.com/aksbuzz/sass-starter-kit) |
+| **Brandkit** | A Digital Asset Management System for uploading, processing, and delivering images at scale. | [View](https://github.com/aksbuzz/brandkit) |
+| **Flippr** | A simple and high-performance Feature Flagging Service to manage feature releases. | [View](https://github.com/aksbuzz/flippr) |
+| **Sketch-Remote** | A realtime multiplayer game where players sketch and others try to guess the word. | [View](https://github.com/aksbuzz/sketch-remote) |
+| **Interview Prep** | A comprehensive collection of resources and code for technical interview preparation. | [View](https://github.com/aksbuzz/interview_prep) |
 
 <br />
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
-#### 💻 Frontend & Mobile
+#### Frontend & Mobile
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -46,7 +47,7 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 
-#### ⚙️ Backend & APIs
+#### Backend & APIs
 <p>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
@@ -56,7 +57,7 @@
   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 </p>
 
-#### 🗄️ Database & Messaging
+#### Database & Messaging
 <p>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -65,7 +66,7 @@
   <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
 </p>
 
-#### ☁️ DevOps & Cloud
+#### DevOps & Cloud
 <p>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -74,7 +75,7 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-#### 🔧 Tools & Testing
+#### Tools & Testing
 <p>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
